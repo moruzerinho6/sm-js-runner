@@ -1,0 +1,17 @@
+{
+  "name": "of-lua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "lua"
+  ],
+  "author": "Jorge Luiz Souza Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "lua-in-js": "^2.2.1"
+  }
+}
